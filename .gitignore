@@ -1,0 +1,14 @@
+#idea files
+.idea/*
+*/.idea/*
+
+#virtualenv
+venv/*
+
+#other
+other/*
+
+#pyc
+*/*.pyc
+*/*.py~
+
